@@ -1,29 +1,64 @@
-# Welcome to your Lovable project
+# 🌿 CycleBite – AI-Powered Food Waste Management System
 
-This project was built with [Lovable](https://lovable.dev).
+## Overview
 
-## Build with Lovable
+CycleBite is an AI-powered web application developed to help reduce food waste through intelligent food freshness analysis and sustainable food management. Users can upload food images to receive a food quality score, freshness prediction, expiry estimate, and AI-based recommendation. The application also provides dashboards, donation management, analytics, notifications, profile management, and sustainability insights.
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+## Features
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- 🍽 Upload food images
+- 🤖 AI-powered food freshness analysis (prototype)
+- 📊 Food quality score
+- 📅 Expiry prediction
+- 💡 AI recommendations
+- 🤝 Food donation management
+- 📈 Sustainability analytics
+- 🔔 Notifications
+- 👤 User profile
+- ⚙️ Settings
 
-## Development
+## Technologies Used
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+### Frontend
+- React.js
+- Vite
+- CSS
+- React Router
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+### Backend
+- Node.js
+- Express.js
 
-## Built with
+### Database
+- MongoDB Atlas
+- Mongoose
 
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
+## How It Works
+
+1. Login to the application.
+2. Upload a food image.
+3. The application performs food freshness analysis (prototype).
+4. View the Food Quality Score, Food Condition, Expiry Prediction, and AI Recommendation.
+5. Explore the Dashboard, Donations, Analytics, Notifications, Profile, and Settings pages.
+
+## Objectives
+
+- Reduce food waste
+- Promote sustainable food management
+- Encourage food donations
+- Support responsible food consumption
+- Demonstrate AI-assisted food freshness analysis
+
+## Future Enhancements
+
+- Real AI image recognition model
+- Cloud image storage
+- Mobile application
+- Smart donation recommendations
+- Advanced sustainability analytics
+
+## Developer
+
+**Priyanga Murugan**
+
+Green Skills AI Internship Project
